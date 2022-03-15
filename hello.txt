@@ -1,4 +1,4 @@
 Hello Git! I'm Shimmer!
 Hello GitHub! I'm AlanWalker!
-Hello Gitee!
+Hello Gitee! I'm 微光!
 Hello GitLab!
